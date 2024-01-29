@@ -25,7 +25,7 @@ dependencies:
     version: ~> 0.11.0
   pg:
     github: will/crystal-pg
-    version: ~> 0.26.0
+    version: ~> 0.28.0
   mysql:
     github: crystal-lang/crystal-mysql
     version: ~> 0.14.0
